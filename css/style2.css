@@ -1,0 +1,124 @@
+html, body
+{
+	background: url(../images/intro.png) no-repeat fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height:100%;
+	margin:0;
+	font-family: "Comic Sans Ms";
+	color:#ec6c83;
+}
+
+.top {
+	width:100px; 
+	height:50px;
+	position:fixed;
+	bottom:0px;
+	right:0px;
+	background-color:white;
+	padding-top:15px;
+	border-radius:10px;
+	z-index:20;
+}
+
+.top a:hover {
+	text-decoration:none;
+}
+
+.image1
+{
+    /* The image used */
+    background-image: url("../images/1.png");
+
+    /* Set a specific height */
+    height: 500px; 
+	z-index:10;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+
+.image2
+{
+    /* The image used */
+    background-image: url("../images/2.png");
+
+    /* Set a specific height */
+    height: 500px; 
+	z-index:10;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+
+.image3
+{
+    /* The image used */
+    background-image: url("../images/3.png");
+
+    /* Set a specific height */
+    height: 500px; 
+	z-index:10;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+
+.image4
+{
+    /* The image used */
+    background-image: url("../images/4.png");
+
+    /* Set a specific height */
+    height: 500px; 
+	z-index:10;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+
+.image5
+{
+    /* The image used */
+    background-image: url("../images/5.png");
+
+    /* Set a specific height */
+    height: 500px; 
+	z-index:10;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+
+.image6
+{
+    /* The image used */
+    background-image: url("../images/6.png");
+
+    /* Set a specific height */
+    height: 500px; 
+	z-index:10;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
